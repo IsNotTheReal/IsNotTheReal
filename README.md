@@ -1,6 +1,6 @@
 <h1 align="center"><b>ABOUT ME</b></h1>
 
-<div align="center">Here, just doing some things to pass the time. Graduated in application development and currently undergoing training in cybersecurity.</div>
+<div align="center">Graduated in cross-platform application development and with a master's degree in cybersecurity. Currently studying web application development.</div>
 
 <h2><b>My profiles</b></h2>
  
